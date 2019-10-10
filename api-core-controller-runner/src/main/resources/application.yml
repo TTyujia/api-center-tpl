@@ -1,0 +1,4 @@
+server:
+  port: ${app.server.port}
+  servlet:
+    context-path: ${app.server.context-path}
